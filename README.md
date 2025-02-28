@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Mi nombre es **Orlando Lorduy**, soy **ingeniero de sistemas** y actualmente estoy cursando una **especialización en ingeniería de software**.
+Mi nombre es **Orlando Lorduy**, soy **ingeniero de sistemas**.
 <!--
 **oelorduy/oelorduy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
